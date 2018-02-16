@@ -1,0 +1,9 @@
+{
+  :links {
+    :brewery [:beer]
+    :brewery :sweet-candy
+  }
+  :brewery [:list :update :delete]
+  :beer [:list :update :delete]
+  :sweet-candy [:update :delete]
+}
